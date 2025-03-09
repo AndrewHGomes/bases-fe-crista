@@ -36,7 +36,7 @@ const versiculos = [
   },
   {
     id: 6,
-    texto: `Porque o Senhor, o seu Deus, é o Deus dos deuses e o Senhor dos senhores, o grande Deus, poderoso e temível, que não age com parcialidade nem aceita suborno.`,
+    texto: `O Senhor estendeu a mão, tocou a minha boca e disse-me: "Agora ponho em sua boca as minhas palavras."`,
     livro: "Jeremias",
     capitulo: 1,
     versiculo: 9,
